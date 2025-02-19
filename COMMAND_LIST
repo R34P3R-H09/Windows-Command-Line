@@ -17,13 +17,18 @@ cd - Use this to change the working directory.
 cd / - Navigates to the root directory.
 mkdir - Creates a new directory.
 rmdir - Removes a directory.
+cls - Clears the command line box. (Very usefull after a while!)
 
 systeminfo - As it suggests really, provides info about the OS, hardware and network.
 winver - Sees which version of Windows you are running.
 tasklist - Displays all running processes.
+powercfg - Shows how your machine is using energy
+shutdown - pretty self explanatory. Shuts the machine down.
 
 hostname - Displays the computers network name.
 ping - Test to see if a network device can be reached. 
+getmac - Displays the MAC address of the network card
+
 
 
 
