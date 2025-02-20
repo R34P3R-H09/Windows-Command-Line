@@ -8,6 +8,7 @@ It is definitely not the difinitive list.
 chkdsk - Scans for disk problems without making any changes.
 chkdsk /r - Scans for disk problems and repairs corrupted files.
 chkdsk /f - For finding and fixing bad sectors.
+sfc - Runs a scan for corrupt files and repairs them.
 diskpart - Manages disk partitions.
 list disk - Displays all the disk drives on the machine.
 clean - Removes partitions from a selected disk. 
@@ -17,9 +18,14 @@ cd - Use this to change the working directory.
 cd / - Navigates to the root directory.
 mkdir - Creates a new directory.
 rmdir - Removes a directory.
+del - Deletes a file. (del song.mp4) for example.
+tree - Shows the tree of the current directory. (This is pretty cool)
 cls - Clears the command line box. (Very usefull after a while!)
+clip - Copies an item to the clipboard.
 
 systeminfo - As it suggests really, provides info about the OS, hardware and network.
+ver - Shows the OS Version you are running.
+driverquery - This will list all the machines installed drivers.
 winver - Sees which version of Windows you are running.
 tasklist - Displays all running processes.
 powercfg - Shows how your machine is using energy
@@ -28,6 +34,7 @@ shutdown - pretty self explanatory. Shuts the machine down.
 hostname - Displays the computers network name.
 ping - Test to see if a network device can be reached. 
 getmac - Displays the MAC address of the network card
+netstat - This will display open ports and their IP's 
 
 
 
