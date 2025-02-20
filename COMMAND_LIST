@@ -28,6 +28,7 @@ ver - Shows the OS Version you are running.
 driverquery - This will list all the machines installed drivers.
 winver - Sees which version of Windows you are running.
 tasklist - Displays all running processes.
+taskkill - Stops a running task.
 powercfg - Shows how your machine is using energy
 shutdown - pretty self explanatory. Shuts the machine down.
 
