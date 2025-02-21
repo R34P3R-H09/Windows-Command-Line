@@ -36,6 +36,9 @@ hostname - Displays the computers network name.
 ping - Test to see if a network device can be reached. 
 getmac - Displays the MAC address of the network card
 netstat - This will display open ports and their IP's 
+tracert - Great for helping find problems on a network by tracing the path of a packet.
+pathping - Basically combines ping and tracert commands.
+
 
 
 
