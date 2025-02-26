@@ -1,8 +1,9 @@
+*****************
  Useful Commands
 *****************
 
 I'm sure most of these commands will be known by most people but I just had some spare time so I thought i'd compile a list of what I tend to use. 
-It is definitely not the difinitive list. 
+It is definitely not the difinitive list. There are several others to say the least!
 
 
 chkdsk - Scans for disk problems without making any changes.
@@ -18,6 +19,9 @@ cd - Use this to change the working directory.
 cd / - Navigates to the root directory.
 mkdir - Creates a new directory.
 rmdir - Removes a directory.
+copy - Copies one or more files to a different location.
+rename - Kinda self explanatory. 
+find - Searches for string in file/files.
 del - Deletes a file. (del song.mp4) for example.
 tree - Shows the tree of the current directory. (This is pretty cool)
 cls - Clears the command line box. (Very usefull after a while!)
@@ -40,7 +44,8 @@ tracert - Great for helping find problems on a network by tracing the path of a 
 pathping - Basically combines ping and tracert commands.
 
 winget upgrade - Lists all apps, their current version and available upgrades.
-winget upgrade --all - upgrades all outdated apps.
+winget upgrade --all - upgrades all outdated apps. (Great tool)
+
 
 
 
