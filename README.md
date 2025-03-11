@@ -8,4 +8,11 @@ Had some free time.
 
 Feel free to add any that you find usefull yourself.
 
+***************************************************************************
+1) From the Windows Start Menu. Open a Command Prompt and run as Admin.
+2) Try the commands.
+***************************************************************************
+
+This will be an ongoing list. I will add to it as and when.
+
 If I get a bit bored I might do the same for PowerShell!
