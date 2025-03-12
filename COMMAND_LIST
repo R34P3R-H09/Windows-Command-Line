@@ -28,12 +28,14 @@ cls - Clears the command line box. (Very usefull after a while!)
 clip - Copies an item to the clipboard.
 
 systeminfo - As it suggests really, provides info about the OS, hardware and network.
+wmic product get name - Lists all installed programs on the computer.
 ver - Shows the OS Version you are running.
 driverquery - This will list all the machines installed drivers.
 winver - Sees which version of Windows you are running.
 tasklist - Displays all running processes.
 taskkill - Stops a running task.
 powercfg - Shows how your machine is using energy
+powercfg/energy - creates a HTML doc with a battery report.
 shutdown - pretty self explanatory. Shuts the machine down.
 
 hostname - Displays the computers network name.
