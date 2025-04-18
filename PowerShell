@@ -1,1 +1,7 @@
+*******************************************************
+* As with before, ensure you run PowerShell as admin. *
+*******************************************************
 
+
+winget upgrade - Lists any apps with available updates.
+winget upgrade --all - carries out the upgrades.
