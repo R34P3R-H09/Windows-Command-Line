@@ -10,6 +10,7 @@ Feel free to add any that you find usefull yourself.
 
 ***************************************************************************
 1) From the Windows Start Menu. Open a Command Prompt and run as Admin.
+( You can alternatively use Win+R, type cmd, then Ctrl+Shift+Enter )
 2) Try the commands.
 3) Enjoy!
 ***************************************************************************
