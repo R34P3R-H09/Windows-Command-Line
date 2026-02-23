@@ -5,3 +5,6 @@
 
 winget upgrade - Lists any apps with available updates.
 winget upgrade --all - carries out the upgrades.
+Get-Command - Shows what commands you can run
+clear - removes all items from shell
+
